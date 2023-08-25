@@ -1,5 +1,4 @@
 ﻿using System.Runtime.InteropServices;
-using System.Text.Json;
 using ConsoleAppInlineArray.Models;
 
 Console.WriteLine("***** Testes com C# 12 | Inline Arrays *****");
